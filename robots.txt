@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Disallow: /home_5/
+Sitemap: http://www.1-floors.com/sitemap.xml 
